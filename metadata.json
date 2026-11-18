@@ -1,0 +1,8 @@
+{
+  "name": "Wasel | واصل — إدارة المتاجر والطلبات",
+  "description": "نظام SaaS عربي متكامل لإدارة المتاجر الإلكترونية وبائعي إنستغرام وفيسبوك في ليبيا: الطلبات، المنتجات، العملاء، وتقارير المبيعات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
